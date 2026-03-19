@@ -58,8 +58,8 @@ Tenho interesse em backend, automações e sistemas bem organizados — sempre b
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kingg33&repo=alan&theme=tokyonight&bg_color=0f172a&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Kingg33/SEU_REPO2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kingg33&repo=SEU_REPO2&theme=tokyonight&bg_color=0f172a&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&hide_border=true"/>
+<a href="https://github.com/Kingg33/apiii">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kingg33&repo=alan&theme=tokyonight&bg_color=0f172a&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&hide_border=true"/>
 </a>
 
 </div>
@@ -74,7 +74,7 @@ Tenho interesse em backend, automações e sistemas bem organizados — sempre b
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,mysql,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,git,github,acode, termux" />
 
 </div>
 
