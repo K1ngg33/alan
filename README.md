@@ -54,8 +54,8 @@ Tenho interesse em backend, automações e sistemas bem organizados — sempre b
 
 <div align="center">
 
-<a href="https://github.com/Kingg33/SEU_REPO1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kingg33&repo=SEU_REPO1&theme=tokyonight&bg_color=0f172a&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&hide_border=true"/>
+<a href="https://github.com/Kingg33/apii">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kingg33&repo=alan&theme=tokyonight&bg_color=0f172a&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Kingg33/SEU_REPO2">
