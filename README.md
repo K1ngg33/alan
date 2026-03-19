@@ -74,7 +74,7 @@ Tenho interesse em backend, automações e sistemas bem organizados — sempre b
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,git,github,acode, termux" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,git,github,acode" />
 
 </div>
 
