@@ -88,11 +88,11 @@ Tenho interesse em backend, automações e sistemas bem organizados — sempre b
 
 <div align="center">
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto: alanalmeidaneves8@gmail.com">
   <img src="https://img.shields.io/badge/email-0f172a?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/>
 </a>
 
-<a href="https://discord.com/users/SEUID">
+<a href="https://discord.com/users/125353636389373">
   <img src="https://img.shields.io/badge/discord-0f172a?style=for-the-badge&logo=discord&logoColor=8A2BE2"/>
 </a>
 
